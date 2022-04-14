@@ -8,3 +8,4 @@ just for test
  - 1.add test with jenkins66
  - 1.add test with jenkins77
  - 1.add test with jenkins88
+ - jenkins 99
