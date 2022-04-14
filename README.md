@@ -5,3 +5,4 @@ just for test
  - 1.add test with jenkins33
  - 1.add test with jenkins44
  - 1.add test with jenkins55
+ - 1.add test with jenkins66
